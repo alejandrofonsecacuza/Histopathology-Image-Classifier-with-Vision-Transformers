@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+numpy
+pillow
+scikit-learn
+matplotlib
+tqdm
+pandas
+requests
+grad-cam
+tensorboard

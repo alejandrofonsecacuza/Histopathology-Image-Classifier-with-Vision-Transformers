@@ -53,7 +53,7 @@ Contiene **3300 imágenes histopatológicas** clasificadas en 4 categorías prin
    * Matriz de confusión y análisis interpretativo con XAI.
 
 
-![Pipeline de procesamiento de imágenes](docs/pipeline.png)
+![Pipeline de procesamiento de imágenes](docs/pipeline.png.png)
 
 ---
 
@@ -104,18 +104,10 @@ El modelo **ViT** alcanzó una **accuracy del 80.28%**, con un F1-score macro de
 ## 📈 Ejemplos de resultados
 
 * **Matriz de confusión** del modelo ViT:
-
-![Confusion Matrix](docs/mc.png)
-
-## 🔍 Inteligencia Artificial Explicativa (XAI)
-
-Para garantizar la interpretabilidad clínica del modelo, se integraron técnicas de IA explicativa sobre el Vision Transformer.
-
-El método utilizado fue **Attention Rollout**, complementado con técnicas similares a Grad-CAM adaptadas a Transformers.
+  ![Confusion Matrix](docs/mc.png)
 
 * **Mapas de atención (XAI)** que muestran las regiones clave en la decisión:
-
-![Attention Map](docs/heatmap.png)
+  ![Attention Map](docs/heatmap.png)
 
 ---
 

@@ -1,0 +1,26 @@
+# Byte-compiled / env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# Data & models
+/data/
+data/
+models/
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+
+# Logs
+logs/
+runs/
+tensorboard/
