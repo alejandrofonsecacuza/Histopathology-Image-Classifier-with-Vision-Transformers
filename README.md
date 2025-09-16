@@ -132,5 +132,5 @@ El método utilizado fue **Attention Rollout**, complementado con técnicas simi
 
 * Ampliar dataset con imágenes adicionales para clases desbalanceadas.
 * Explorar arquitecturas híbridas (CNN + Transformer).
-* Integrar interpretabilidad avanzada con **Grad-CAM ViT** y **Attention Rollout**.
+
 
